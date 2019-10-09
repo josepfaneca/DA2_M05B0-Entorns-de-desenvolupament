@@ -1,5 +1,8 @@
 # DA2_M05B0-Entorns-de-desenvolupament
 
+![resum](https://user-images.githubusercontent.com/10809243/66494454-fad9c000-eab7-11e9-8dd2-f7b102d6b6d5.jpg)
+
+
 
 <h2>Unitat 1. Desenvolupament de programari</h2>
 
