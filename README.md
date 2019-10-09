@@ -1,7 +1,5 @@
 # DA2_M05B0-Entorns-de-desenvolupament
-Aquest mòdul M05 Entorns de desenvolupament s’ocupa de diferents àmbits de la programació: introducció al llenguatge d’especificació UML, configuració i ús d’entorns de desenvolupament i eines per provar el codi i millorar-ne la qualitat.
 
-En finalitzar aquest mòdul l’alumne/a:
 
 <h2>Unitat 1. Desenvolupament de programari</h2>
 
@@ -17,3 +15,9 @@ Optimitza codi emprant les eines disponibles en l’entorn de desenvolupament.
 
 Genera diagrames de classes valorant la seva importància en el desenvolupament d’aplicacions i emprant les eines disponibles en l’entorn.
 Genera diagrames de comportament valorant la seva importància en el desenvolupament d’aplicacions i emprant les eines disponibles en l’entorn.
+
+
+![distribucioHora](https://user-images.githubusercontent.com/10809243/66494083-62434000-eab7-11e9-9944-8a5ad03540e7.jpg)
+
+
+![notes](https://user-images.githubusercontent.com/10809243/66494452-f7decf80-eab7-11e9-9586-940627d4b8f9.jpg)
