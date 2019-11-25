@@ -17,7 +17,7 @@ public class Pantalla {
 				+ calcularPolzades(3) + " polzades");
 	}
 
-	public double calcularPolzades(int pant) {
+	private double calcularPolzades(int pant) {
 		double alt = 27.4;
 		double ample = 48.7;
 		double polzades = 2.54;
